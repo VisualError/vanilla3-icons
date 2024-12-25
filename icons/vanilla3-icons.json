@@ -82,8 +82,8 @@
         "luau": "_ext_ts",
 
         "client.ts": "_ext_client_ts",
-        "client.lua": "_ext_server_ts",
-        "client.luau": "_ext_server_ts",
+        "client.lua": "_ext_client_ts",
+        "client.luau": "_ext_client_ts",
 
         "server.ts": "_ext_server_ts",
         "server.lua": "_ext_server_ts",
